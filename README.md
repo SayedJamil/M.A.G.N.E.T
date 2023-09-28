@@ -4,12 +4,6 @@
 
 The M.A.G.N.E.T stack is a modern web development stack that consists of four key technologies, namely MongoDB, Express.js, GraphQL, and Apollo GraphQL, along with Node.js as the server-side runtime environment and TypeScript
 
-This stack combines the power of NoSQL databases, server-side TypeScript, and a flexible data query language to create scalable and efficient web applications.
-
-MongoDB provides a flexible and scalable NoSQL database, Express.js is a powerful and popular web framework for Node.js, GraphQL is a query language for APIs that allows for efficient and flexible data fetching, and Apollo GraphQL is a set of tools and server-side components for building GraphQL APIs.
-
-By combining these technologies, developers can create powerful and flexible web applications that can be easily extended and scaled.
-
 ## Tech Stack
 
 Node, Express, MongoDB, Graphql, Apollo-server, TypeScript.

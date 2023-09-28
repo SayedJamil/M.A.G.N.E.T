@@ -39,14 +39,14 @@ mongoose.connect(url, {
 } as ConnectOptions);
 app.use(
   session({
-    secret: "Mastery Marking",
+    secret: "M.A.G.N.E.T",
   })
 );
 const db = mongoose.connection;
 db.on("error", console.error.bind(console, "connection error:"));
 db.once("open", function () {
   // We are connected to the database
-  console.log("Connected to MongoDB server: Mastery Marking");
+  console.log("Connected to MongoDB server: M.A.G.N.E.T");
 });
 
 async function startServer() {
